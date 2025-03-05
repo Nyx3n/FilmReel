@@ -1,0 +1,24 @@
+body {
+    height: 4000px;
+
+}
+
+.films_cards {
+    background-color: #191c1c;
+    position: absolute;
+    top: -400px;
+    left: 7%;
+    height: 6100px;
+    width: 50%;
+    z-index: -1;
+}
+
+.films_cards3 {
+    background-color: #191c1c;
+    position: absolute;
+    top: -400px;
+    left: 1450px;
+    height: 6100px;
+    width: 5%;
+    z-index: -1;
+}
